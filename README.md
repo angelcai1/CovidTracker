@@ -4,7 +4,9 @@
 This is a covid19 web application that tracks the daily number of cases and deaths of covid19 in different countries
 
 ## Technical
-Uses Node.js and Vue.js to create a web application
+- Backend Framework: Node.js
+- Frontend Framework: Vue.js
+- CSS Framework: Tailwind
 
 ## Project setup
 ```
