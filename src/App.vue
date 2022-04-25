@@ -1,6 +1,5 @@
 <template>
-@TODO HERE
-<div class="bg-current full">
+<div class="bg-red-50 h-screen">
 <Header />
   <div class="container">
     <router-view/>
